@@ -26,9 +26,9 @@ Rangkaian ini menghasilkan output berupa lampu LED yang dapat di on/off kan deng
 
 *Pembagian Tugas*
 
-1. Muhammad Irvan Hakim      =
-2. Muhammad Dhimas Eko       =
-3. Maulana Muhammad Hafidz   =
+1. Muhammad Irvan Hakim      = Buat Kodingan dan Edit Video
+2. Muhammad Dhimas Eko       = Buat Desain Skema Komponen dan Merakit Komponen
+3. Maulana Muhammad Hafidz   = Membantu Merakit Komponen dan Membuat Dokumentasi README pada Github
 
 **Komponen yang digunakan:**
 
