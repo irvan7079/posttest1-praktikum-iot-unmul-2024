@@ -40,10 +40,10 @@ Rangkaian ini menghasilkan output berupa lampu LED yang dapat di on/off kan deng
 6. ESP8266
 
 
-1. Design Schematic:
+**Design Schematic:**
 <img src="Skema/Skema.jpg">
 
-2. Our Schematic:
+**Our Schematic:**
 <img src="Skema/Skema.jpg">
 
 LINK VIDEO: https://youtu.be/1yvXzTOZy8Y?si=RoxrJlBpsgZOKrdR
