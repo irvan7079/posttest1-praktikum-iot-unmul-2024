@@ -44,6 +44,6 @@ Rangkaian ini menghasilkan output berupa lampu LED yang dapat di on/off kan deng
 <img src="Skema/Skema.jpg">
 
 **Our Schematic:**
-<img src="Skema/Skema.jpg">
+<img src="Skema/Skema2.jpg">
 
 LINK VIDEO: https://youtu.be/1yvXzTOZy8Y?si=RoxrJlBpsgZOKrdR
