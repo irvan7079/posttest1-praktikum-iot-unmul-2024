@@ -2,9 +2,9 @@
 
 *Kelompok 3 B 2021:*
 
-  * Muhammad Irvan Hakim	2109106057
-  * Muhammad Dhimas Eko	2109106068
-  * Maulana Muhammad Hafidz	2109106070
+  * Muhammad Irvan Hakim	- 2109106057
+  * Muhammad Dhimas Eko	- 2109106068
+  * Maulana Muhammad Hafidz -	2109106070
 
 
 # Rangkaian untuk mengatur hidup mati Lampu LED menggunakan webserver
